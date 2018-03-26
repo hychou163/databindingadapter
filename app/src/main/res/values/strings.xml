@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">databinding-adapter</string>
+    <string name="linear_layout_manager">LinearLayoutManager</string>
+</resources>
